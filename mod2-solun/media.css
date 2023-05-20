@@ -3,9 +3,7 @@
 <head>
 <style>
 body {
-  background-color: pink;
   
-}
 
 @media (min-width: 480px)and (max-width: 992px) {
 
@@ -25,3 +23,5 @@ body {
 
 </body>
 </html>
+
+
